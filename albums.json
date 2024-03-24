@@ -1,23 +1,22 @@
 {
-    "albums": [
-      {
-        "Artist": "Beastie Boys",
-        "Album": "Licensed to Ill",
-        "Tracks": ["Fight for Your Right", "No Sleep till Brooklyn", "Paul Revere", "Brass Monkey", "Girls"],
-        "year": 1986
-      },
-      {
-        "Artist": "Arctic Monkeys",
-        "Album": "AM",
-        "Tracks": ["Do I Wanna Know?", "R U Mine?", "One for the Road", "Arabella", "Why'd You Only Call Me When You're High?"],
-        "year": 2013
-      },
-      {
-        "Artist": "Tame Impala",
-        "Album": "Currents",
-        "Tracks": ["Let It Happen", "The Less I Know the Better", "Eventually", "Yes I'm Changing", "Love/Paranoia"],
-        "year": 2015
-      }
-    ]
-  }
-  
+  "albums": [
+    {
+      "artist": "Beastie Boys",
+      "album": "Licensed to Ill",
+      "tracks": ["Fight for Your Right", "No Sleep till Brooklyn", "Paul Revere", "Brass Monkey", "Girls"],
+      "year": 1986
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "tracks": ["Do I Wanna Know?", "R U Mine?", "One for the Road", "Arabella", "Why'd You Only Call Me When You're High?"],
+      "year": 2013
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "tracks": ["Let It Happen", "The Less I Know the Better", "Eventually", "Yes I'm Changing", "Love/Paranoia"],
+      "year": 2015
+    }
+  ]
+}
