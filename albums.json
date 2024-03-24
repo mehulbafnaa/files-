@@ -8,13 +8,13 @@
       },
       {
         "Artist": "Arctic Monkeys",
-        "album": "AM",
+        "Album": "AM",
         "tracks": ["Do I Wanna Know?", "R U Mine?", "One for the Road", "Arabella", "Why'd You Only Call Me When You're High?"],
         "year": 2013
       },
       {
         "Artist": "Tame Impala",
-        "album": "Currents",
+        "Album": "Currents",
         "tracks": ["Let It Happen", "The Less I Know the Better", "Eventually", "Yes I'm Changing", "Love/Paranoia"],
         "year": 2015
       }
